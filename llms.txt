@@ -1,0 +1,14 @@
+# KOOR Power Systems
+
+> KOOR is a line of off-grid and hybrid split-phase inverters and 16 kWh LiFePO4 batteries, sold and supported by Fantastech Energy Solution LLC, 3645 S 1200 W, Goshen, IN 46528, 574-218-1973. Stocked in Goshen, Indiana; sold through dealers nationwide.
+
+## Products
+- [All-in-One Hybrid Inverter](https://koorusa.com/all-in-one.html): KR-L8K / L10K / L12K / L15K-SPUS, 8-15 kW split phase, 3 MPPT, 550 V max PV, NEMA 4X, CSA-certified to UL 1741 SB and UL 1699B, 10-year warranty.
+- [12K Off-Grid Inverter](https://koorusa.com/12k-off-grid.html): KR-A12US and KR-L12K-SP-BP, 12 kW split phase, 18 kVA surge, 2 MPPT, 500 V max PV, parallel to 6, 5-year warranty.
+- [16K Pro Battery](https://koorusa.com/16k-pro.html): 51.2 V, 314 Ah, 16 kWh LiFePO4 cabinet on casters, 200 A, heater pads, active balancing, 10-year warranty.
+- [Active Stack Battery](https://koorusa.com/active-stack.html): 51.2 V, 314 Ah, 16 kWh stackable tower, up to 15 towers, auto precharge, 10-year warranty.
+
+## Support
+- [Manuals, warranty, monitoring](https://koorusa.com/support.html)
+- [Dealer program](https://koorusa.com/dealers.html)
+- [Contact](https://koorusa.com/contact.html)
